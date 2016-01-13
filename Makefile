@@ -19,4 +19,3 @@ dist: create-dist-dir compile
 clean:
 	$(RM) -rf build
 	$(RM) -rf dist
-
